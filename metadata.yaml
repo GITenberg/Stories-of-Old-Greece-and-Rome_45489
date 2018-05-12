@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '2407'
     url: http://www.gutenberg.org/2009/agents/2407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45489#Stories-of-Old-Greece-and-Rome
 gutenberg_issued: '2014-04-25'
 gutenberg_type: Text
 identifiers:
